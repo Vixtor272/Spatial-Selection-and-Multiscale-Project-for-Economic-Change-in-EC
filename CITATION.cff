@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository, please cite the thesis below and the paper whose
+  decomposition engine it uses (listed under "references").
+type: software
+title: >-
+  Selection and Transmission in Space: A Multiscale Price-Equation
+  Decomposition of Ecuador's Formal Economy, 2017-2023
+authors:
+  - family-names: Bastidas
+    given-names: Victor
+    affiliation: Universidad San Francisco de Quito
+date-released: "2026-12-16"
+preferred-citation:
+  type: thesis
+  title: >-
+    Aplicación de la ecuación de Price para la descomposición multi-escala del
+    crecimiento económico espacial. Evidencia del sector privado formal del
+    Ecuador (2017-2024)
+  authors:
+    - family-names: Bastidas
+      given-names: Victor
+  institution:
+    name: Universidad San Francisco de Quito
+  thesis-type: Undergraduate thesis
+  year: 2026
+references:
+  - type: article
+    title: Spatial Selection and the Multiscale Dynamics of Urban Change
+    authors:
+      - family-names: Kemp
+        given-names: Jordan T.
+      - family-names: Fürsich
+        given-names: Laura
+      - family-names: Tannira
+        given-names: Elias
+      - family-names: Bettencourt
+        given-names: Luís M. A.
+    year: 2025
+    identifiers:
+      - type: other
+        value: "arXiv:2511.06165"
+    url: "https://arxiv.org/abs/2511.06165"
+    notes: >-
+      The decomposition engine. Code:
+      https://github.com/JordanK10/UrbanTraitSelection (commit 045a994),
+      included here as a git submodule.

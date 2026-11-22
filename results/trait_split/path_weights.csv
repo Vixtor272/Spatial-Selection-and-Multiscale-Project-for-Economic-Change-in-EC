@@ -1,0 +1,15 @@
+﻿window,quantity,value
+2017_to_2023,"firm share of the two metros, start",0.5646983934118939
+2017_to_2023,"firm share of the two metros, end",0.5293915500877406
+2017_to_2023,"sales share of the two metros, start",0.6422696733224089
+2017_to_2023,income-path weight of the two metros,0.9814397021479746
+2017_to_2023,density-path weight of the two metros,0.9763525002328141
+2017_to_2023,aggregate sales growth per year,0.04411525994194198
+2017_to_2023,"income-path total (flat, one level)",0.032840498981608165
+2017_to_2023,aggregate firm growth per year,0.09219346831878929
+2017_to_2023,"density-path total (flat, one level)",0.08136864239550867
+2017_to_2023,"firm-weighted corr(ln sales, ln firms)",0.9729327943198056
+2017_to_2023,Quito sales growth per year,0.017390167168662405
+2017_to_2023,Quito firm growth per year,0.08882929623956548
+2017_to_2023,Guayaquil sales growth per year,0.04652849695374422
+2017_to_2023,Guayaquil firm growth per year,0.07476834772209208

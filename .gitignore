@@ -1,0 +1,41 @@
+# --- local environment and editor state ---
+.venv/
+.vscode/
+.claude/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.pytest_cache/
+*.egg-info/
+
+# --- kept on this computer only: retired material and private working files ---
+legacy/
+local/
+
+# --- data: the SRI extract is delivered on request and is not redistributed.
+#     data/processed/ holds tables built from it; they are held back until
+#     sharing aggregates is confirmed (delete that line to publish them) ---
+data/raw/
+data/processed/
+
+# --- LaTeX build files ---
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# --- heavy outputs the code regenerates ---
+*.pkl
+*.mp4
+# full-page vector maps of the masked-growth cases, 35-50 MB each (the .png versions are tracked)
+results/story/masked_multiscale/case*.pdf
+*.key
+*.key/

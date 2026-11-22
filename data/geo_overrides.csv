@@ -1,0 +1,10 @@
+tipo,prov_in,canton_in,parroquia_in,prov_out,canton_out,cod_parr,nota
+canton_alias,ORELLANA,ORELLANA,,ORELLANA,FRANCISCO DE ORELLANA,,"SRI llama 'ORELLANA' al canton; la DPA/Mapeo lo nombra 'FRANCISCO DE ORELLANA'"
+canton_alias,GUAYAS,NOBOL,,GUAYAS,NOBOL (VICENTE PIEDRAHITA),,"canton Nobol: nombre DPA incluye la cabecera"
+canton_alias,GUAYAS,PLAYAS,,GUAYAS,PLAYAS (GENERAL VILLAMIL),,"canton Playas: nombre DPA incluye la cabecera"
+canton_alias,LOJA,CHAGUARPAMBA,,LOJA,CHAHUARPAMBA,,"variante ortografica del canton (Chaguarpamba/Chahuarpamba)"
+canton_alias,NAPO,CARLOS JULIO AROSEMENA TOLA,,NAPO,CARLOS JULIO AROSEMENA T.,,"canton abreviado en Mapeo Parroquias"
+trio_code,SANTO DOMINGO DE LOS TSACHILAS,LA CONCORDIA,LA CONCORDIA,,,230250,"La Concordia paso de Esmeraldas a Sto Domingo (referendum 2013)"
+trio_code,SANTO DOMINGO DE LOS TSACHILAS,LA CONCORDIA,MONTERREY,,,230251,"reforma La Concordia 2013"
+trio_code,SANTO DOMINGO DE LOS TSACHILAS,LA CONCORDIA,LA VILLEGAS,,,230252,"reforma La Concordia 2013"
+trio_code,SANTO DOMINGO DE LOS TSACHILAS,LA CONCORDIA,PLAN PILOTO,,,230253,"reforma La Concordia 2013"

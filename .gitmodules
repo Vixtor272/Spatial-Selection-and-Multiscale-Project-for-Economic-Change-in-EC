@@ -1,0 +1,4 @@
+[submodule "UrbanTraitSelection"]
+	path = UrbanTraitSelection
+	url = https://github.com/JordanK10/UrbanTraitSelection.git
+	ignore = untracked
